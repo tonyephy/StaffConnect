@@ -96,9 +96,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Flutter](https://flutter.dev) for a fast and beautiful UI framework.
 - [Material Design](https://material.io) for design principles.
 
-## Contact
 
-For any questions or inquiries, please contact us at [support@company.com](mailto:support@company.com).
+## 📞 Contact
+For questions, feedback, or support, feel free to reach out:
+
+- **Email**: [tonylvan77@gmail.com](mailto:tonylvan77@gmail.com)
+- **Paypal Email**: [antonywanjiru7777@gmail.com](mailto:antonywanjiru7777@gmail.com)
 
 ---
 
