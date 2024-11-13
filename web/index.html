@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Internal communication is the key to success in any organization. Employee apps help businesses with human resources initiatives, safety and compliance, employee training, benefits administration, and more. You can even use an employee self-service app for your staff to check pay stubs on their phones. Push notifications make it easy for organizations to notify employees about upcoming events and urgent scheduling changes. These such apps even work for crisis and emergency communication.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="employee_communication_app">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>Employee Communication App</title>
+  <link rel="manifest" href="manifest.json">
+
+  <!-- Firebase SDKs -->
+  <script src="https://www.gstatic.com/firebasejs/9.1.3/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.1.3/firebase-analytics.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.1.3/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.1.3/firebase-firestore.js"></script>
+
+</head>
+<body>
+
+<!-- Your App's content -->
+
+<!-- Firebase Initialization Script -->
+<script>
+  // Your web app's Firebase configuration
+  const firebaseConfig = {
+    apiKey: "AIzaSyDAus_o9p2IhKHPnecp3mTQKxxWWf6i2F4",
+    authDomain: "employee-communication-a-e9d67.firebaseapp.com",
+    projectId: "employee-communication-a-e9d67",
+    storageBucket: "employee-communication-a-e9d67.firebasestorage.app",
+    messagingSenderId: "46439967773",
+    appId: "1:46439967773:web:44b669946f3ef2a15b6af4",
+    measurementId: "G-6WMFL9N7N2"
+  };
+
+  // Initialize Firebase
+  const app = firebase.initializeApp(firebaseConfig);
+  const analytics = firebase.getAnalytics(app);
+</script>
+
+<script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

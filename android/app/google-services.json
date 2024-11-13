@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46439967773",
+    "project_id": "employee-communication-a-e9d67",
+    "storage_bucket": "employee-communication-a-e9d67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46439967773:android:aecfae224da7788a5b6af4",
+        "android_client_info": {
+          "package_name": "com.example.employee_commun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnu6h-soj1UnF-2IZtRehhkLJMzjtZ6ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46439967773:android:87645b7d2be1d1555b6af4",
+        "android_client_info": {
+          "package_name": "com.example.employee_communication_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnu6h-soj1UnF-2IZtRehhkLJMzjtZ6ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

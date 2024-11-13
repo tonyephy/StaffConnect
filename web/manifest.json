@@ -1,0 +1,35 @@
+{
+    "name": "employee_communication_app",
+    "short_name": "employee_communication_app",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Internal communication is the key to success in any organization.  Employee apps help businesses with human resources initiatives, safety and compliance, employee training, benefits administration, and more. You can even use an employee self-service app for your staff to check pay stubs on their phones.  Push notifications make it easy for organizations to notify employees about upcoming events and urgent scheduling changes. These such apps even work for crisis and emergency communication.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
